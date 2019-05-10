@@ -1,8 +1,9 @@
 # StATX
-**Update:** Due to Google's change in business model, billing is required to have API keys and the demo is now inactive. I have left the code up for other people's reference.
+###### Update: Due to Google's change in business model, billing is required to have API keys and the demo is now inactive. I have left the code up for other people's reference.
 
 
 **Stat**istics **A**ustin, **TX**
+###### [ stat-iks ]
 
 Webpage to display markers for every crime reported in Austin Police Department’s 2014 dataset.
 
