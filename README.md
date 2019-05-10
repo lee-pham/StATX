@@ -8,4 +8,4 @@ Webpage to display markers for every crime reported in Austin Police Departmentâ
 Coordinates from the dataset are configured to be compatible with the Google Maps API
 (converted State Plane coordinate system to geographic latitude and longitude)
 
-Demo can be found [here](https://lee-pham.github.io).
+Demo can be found [here](github.com/lee-pham/StATX).
